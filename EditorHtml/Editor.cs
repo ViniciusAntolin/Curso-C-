@@ -22,12 +22,19 @@ namespace EditorHtml
             do
             {
                 arquivo.Append(Console.ReadLine());
-                arquivo.Append(Environment.NewLine.);
+                arquivo.Append(Environment.NewLine);
             } while (Console.ReadKey().Key != ConsoleKey.Escape);
 
             System.Console.WriteLine("--------------");
             System.Console.WriteLine(" Deseja salvar o arquivo?");
-            var resposta = Console.ReadLine();
+            System.Console.WriteLine(" 1 - Sim");
+            System.Console.WriteLine(" 0 - Não");
+            var resposta = short.Parse(Console.ReadLine());
+
+            if (resposta == 1)
+                Salvar.SalvarArquivo(arquivo.ToString());
+
+            Visualizador.Exibir(arquivo.ToString());
         }
     }
 }
