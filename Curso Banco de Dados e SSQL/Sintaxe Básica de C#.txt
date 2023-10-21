@@ -1,0 +1,35 @@
+Sintaxe Básica de C#:
+
+Variáveis e Tipos de Dados: Além dos tipos mencionados anteriormente, você encontrará tipos como float (números decimais), char (caracteres individuais) e double (números decimais com maior precisão).
+Operadores Aritméticos e Lógicos: Além dos básicos, há operadores de atribuição (=), operadores de comparação (<, >, ==) e operadores ternários para simplificar decisões.
+Estruturas de Controle de Fluxo: Aprenda a usar switch para escolhas múltiplas e loops avançados como do-while para repetições controladas por condição após a execução.
+Orientação a Objetos:
+
+Classes e Objetos: Você cria uma classe definindo seus atributos (variáveis) e métodos (ações). Objetos são criados a partir dessas classes e podem interagir uns com os outros.
+Encapsulamento: Além dos modificadores de acesso, você pode criar métodos especiais chamados "getters" e "setters" para controlar como os dados são acessados e modificados.
+Herança: Com herança, uma classe pode herdar campos e métodos de outra classe. Isso é útil para reutilizar código e criar relacionamentos entre classes.
+Polimorfismo: Além da sobrescrita de métodos, você pode usar interfaces para definir um contrato que várias classes diferentes devem seguir, independentemente de sua hierarquia.
+Abstração: Classes abstratas são úteis quando você quer fornecer uma estrutura básica para outras classes, mas não quer criar instâncias diretamente.
+Interfaces: Elas são úteis para definir comportamentos que várias classes diferentes podem compartilhar, permitindo que você crie classes totalmente diferentes, mas intercambiáveis.
+Manipulação de Dados:
+
+Arrays e Listas: Você pode criar arrays e listas de tipos personalizados e usar loops para percorrer os elementos.
+Estruturas de Dados Simples: Pilhas são como uma pilha de pratos, onde o último prato adicionado é o primeiro a ser retirado. Filas são como uma fila em um caixa, onde o primeiro a entrar é o primeiro a sair.
+Tratamento de Exceções:
+
+Try-Catch: Além do bloco try principal, você pode ter vários blocos catch para capturar diferentes tipos de exceções e tratar cada uma de forma adequada.
+Depuração e Resolução de Problemas:
+
+Ferramentas de Depuração: Além de rastrear variáveis, você pode definir pontos de interrupção para pausar a execução e examinar o estado do programa em tempo real.
+Princípios Básicos de Testes Unitários:
+
+Testes Simples: Estruture testes que criam cenários específicos e verificam se a saída corresponde ao esperado.
+Versionamento de Código:
+
+Git: Além de rastrear versões, você pode criar "branches" para desenvolver recursos separadamente e depois mesclá-los de volta ao projeto principal.
+Boas Práticas de Codificação:
+
+Nomenclatura e Comentários: Além de nomes descritivos, é importante dividir seu código em funções menores e documentar seu propósito e funcionamento com comentários.
+Integração de Bibliotecas e Frameworks:
+
+Bibliotecas Externas: Além de integrar bibliotecas, você pode criar suas próprias bibliotecas para reutilizar código entre projetos.

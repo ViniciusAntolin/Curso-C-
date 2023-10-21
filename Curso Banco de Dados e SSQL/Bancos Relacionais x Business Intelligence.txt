@@ -1,0 +1,12 @@
+Bancos de dados relacionais e Business Intelligence (BI) são conceitos distintos, mas estão relacionados no contexto da organização e análise de dados. Vou explicar cada um deles e também como eles se conectam:
+
+Bancos de dados relacionais:
+Um banco de dados relacional é uma estrutura de armazenamento e organização de dados que utiliza o modelo relacional. Ele é composto por tabelas com linhas (registros) e colunas (atributos), e as relações entre as tabelas são estabelecidas por meio de chaves primárias e chaves estrangeiras. O objetivo principal de um banco de dados relacional é armazenar, recuperar e manipular os dados de forma eficiente e segura. Ele fornece uma base sólida para a persistência dos dados e oferece recursos para consultas complexas, integridade dos dados, transações e controle de acesso.
+
+Business Intelligence (BI):
+Business Intelligence é um conjunto de processos, tecnologias e ferramentas que visam transformar dados brutos em informações valiosas e insights para auxiliar na tomada de decisões estratégicas e operacionais nas organizações. O BI envolve a coleta, organização, análise e visualização de dados para que os usuários possam obter uma compreensão abrangente e acionável do desempenho dos negócios. As soluções de BI permitem a criação de relatórios, painéis interativos, análises ad hoc, mineração de dados e outras técnicas para descobrir padrões, tendências e oportunidades nos dados.
+
+Relação entre bancos de dados relacionais e Business Intelligence:
+Os bancos de dados relacionais são a base de dados usada em muitos projetos de Business Intelligence. Eles armazenam os dados necessários para análise e geração de insights no processo de BI. Os dados são extraídos do banco de dados relacional, transformados e carregados (ETL) em um data warehouse ou em um ambiente de data mart, que é otimizado para análise e consultas de BI. Em seguida, são aplicadas técnicas e ferramentas de BI para explorar os dados, criar relatórios, painéis e análises interativas que ajudam a compreender o desempenho dos negócios, identificar oportunidades, monitorar métricas-chave e apoiar a tomada de decisões informadas.
+
+Portanto, os bancos de dados relacionais fornecem a estrutura e a capacidade de armazenamento dos dados, enquanto o Business Intelligence se concentra na análise, interpretação e apresentação desses dados para fins estratégicos e operacionais. Ambos desempenham papéis essenciais no processo de gestão de dados e informações em uma organização.

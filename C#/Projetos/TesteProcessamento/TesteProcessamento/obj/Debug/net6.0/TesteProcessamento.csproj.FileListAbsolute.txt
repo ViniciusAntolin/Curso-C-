@@ -1,0 +1,14 @@
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\bin\Debug\net6.0\TesteProcessamento.exe
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\bin\Debug\net6.0\TesteProcessamento.deps.json
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\bin\Debug\net6.0\TesteProcessamento.runtimeconfig.json
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\bin\Debug\net6.0\TesteProcessamento.dll
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\bin\Debug\net6.0\TesteProcessamento.pdb
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.AssemblyInfoInputs.cache
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.AssemblyInfo.cs
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.dll
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\refint\TesteProcessamento.dll
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.pdb
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\TesteProcessamento.genruntimeconfig.cache
+C:\CURSOS\C#\Projetos\TesteProcessamento\TesteProcessamento\obj\Debug\net6.0\ref\TesteProcessamento.dll

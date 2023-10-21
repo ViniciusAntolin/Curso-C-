@@ -1,0 +1,14 @@
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\bin\Debug\net6.0\TesteFuncoesMatematicas.exe
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\bin\Debug\net6.0\TesteFuncoesMatematicas.deps.json
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\bin\Debug\net6.0\TesteFuncoesMatematicas.runtimeconfig.json
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\bin\Debug\net6.0\TesteFuncoesMatematicas.dll
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\bin\Debug\net6.0\TesteFuncoesMatematicas.pdb
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.AssemblyInfoInputs.cache
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.AssemblyInfo.cs
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.dll
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\refint\TesteFuncoesMatematicas.dll
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.pdb
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\TesteFuncoesMatematicas.genruntimeconfig.cache
+C:\CURSOS\C#\Projetos\TesteFuncoesMatematicas\TesteFuncoesMatematicas\obj\Debug\net6.0\ref\TesteFuncoesMatematicas.dll

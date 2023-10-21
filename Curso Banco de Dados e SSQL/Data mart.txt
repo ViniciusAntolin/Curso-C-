@@ -1,0 +1,13 @@
+Um data mart é um subconjunto de um data warehouse, que contém dados específicos de um determinado departamento, equipe ou processo dentro de uma organização. Enquanto um data warehouse é projetado para armazenar dados de toda a empresa, um data mart é focado em atender às necessidades de análise de um grupo específico de usuários.
+
+A principal diferença entre um data mart e um data warehouse é o escopo dos dados e o público-alvo. Enquanto um data warehouse abrange todas as áreas da organização e fornece uma visão abrangente dos dados corporativos, um data mart é projetado para fornecer informações direcionadas e altamente relevantes para um grupo de usuários específico.
+
+Os data marts são construídos para atender às necessidades analíticas de um departamento ou função de negócio específica, como vendas, marketing, recursos humanos, finanças, entre outros. Eles são geralmente mais simples e mais focados em comparação com um data warehouse completo, permitindo um acesso mais rápido e eficiente aos dados relevantes para um determinado grupo de usuários.
+
+Os data marts podem ser construídos de duas maneiras principais:
+
+Data Mart Independente: Nesse caso, um data mart é construído separadamente do data warehouse principal. Os dados necessários para o data mart são extraídos, transformados e carregados diretamente das fontes operacionais relevantes para o departamento específico. Isso permite que o departamento controle e personalize o conteúdo do data mart para atender às suas necessidades analíticas específicas.
+
+Data Mart Orientado pelo Data Warehouse: Nessa abordagem, o data mart é construído como uma subdivisão ou subsetor do data warehouse principal. Os dados relevantes para o departamento específico são selecionados e segmentados do data warehouse principal, criando um ambiente analítico mais especializado para o grupo de usuários. Essa abordagem aproveita a estrutura e a consistência do data warehouse central, facilitando a manutenção e a integração dos dados.
+
+Os data marts fornecem uma visão mais direcionada e específica dos dados para as áreas de negócios, permitindo uma análise mais focada e a geração de relatórios personalizados. Eles oferecem aos usuários uma maneira eficiente de acessar e analisar as informações relevantes para suas necessidades específicas, sem ter que lidar com a complexidade e o volume de dados do data warehouse completo.

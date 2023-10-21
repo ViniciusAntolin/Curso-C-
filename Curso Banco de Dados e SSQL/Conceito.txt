@@ -1,0 +1,37 @@
+Conceitos
+
+CONCEITO DE VARIÂNCIA
+
+Variância:
+A variância é uma medida estatística que representa a dispersão ou a variabilidade dos dados em relação à média. Ela nos informa o quão distantes os valores individuais de um conjunto de dados estão da média desse conjunto. Matematicamente, a variância é calculada somando-se o quadrado da diferença entre cada valor e a média, dividindo pelo número total de valores. Em resumo, quanto maior a variância, mais dispersos e heterogêneos são os dados; quanto menor a variância, mais próximos e homogêneos eles são.
+
+CONCEITO DE POPULAÇÃO
+
+População:
+Na estatística, "população" refere-se ao conjunto completo de todos os elementos ou indivíduos que possuem uma característica específica em comum e que são do interesse de um estudo estatístico. Por exemplo, se estivermos interessados na altura de todas as pessoas adultas em um país, a população será composta por todas as pessoas adultas desse país. Em geral, é difícil ou impraticável analisar todos os elementos de uma população, e é aí que entra o conceito de amostragem.
+
+CONCEITO DE AMOSTRA
+
+Amostra:
+Uma amostra é um subconjunto representativo selecionado a partir da população total para ser investigado e analisado em um estudo estatístico. Em muitos casos, é inviável ou muito caro coletar dados de toda a população, então a amostragem é utilizada para fazer inferências sobre a população maior. A seleção adequada de uma amostra é crucial para garantir que as conclusões obtidas sejam generalizáveis e representativas da população como um todo. Existem diversos métodos de amostragem, como amostragem aleatória simples, amostragem estratificada, amostragem por conglomerados, entre outros.
+
+Em resumo, a variância está relacionada à dispersão dos dados em torno da média, 
+a população é o conjunto completo de elementos de interesse e 
+a amostra é um subconjunto representativo da população utilizado para fazer inferências estatísticas.
+
+Outlier:
+Outlier (valor atípico) é um termo utilizado em estatística para se referir a um valor que se diferencia significativamente dos demais valores de um conjunto de dados. Esses valores atípicos são incomuns ou inconsistentes com o padrão geral observado nos demais dados da amostra ou população.
+
+Outliers podem surgir por diversas razões, como erros de medição, falhas no processo de coleta de dados, comportamentos extremos ou eventos raros. A presença de outliers pode afetar negativamente as análises estatísticas, distorcendo a média e a variância do conjunto de dados e, consequentemente, afetando as conclusões que podem ser tiradas a partir desses dados.
+
+É importante identificar e tratar os outliers de maneira adequada, dependendo do contexto e do objetivo da análise estatística. Algumas abordagens para lidar com outliers incluem:
+
+Identificação: Utilizar métodos gráficos, como gráficos de caixa (boxplots) ou histogramas, ou métodos estatísticos, como o critério do desvio padrão, para identificar os valores atípicos no conjunto de dados.
+
+Remoção: Em alguns casos, os outliers podem ser removidos do conjunto de dados, mas isso deve ser feito com cuidado e com justificativas sólidas, pois a remoção imprópria de outliers pode levar a conclusões enviesadas.
+
+Transformação dos dados: Em alguns casos, pode ser apropriado transformar os dados de maneira que os outliers tenham menos impacto na análise, como aplicar logaritmo ou outras transformações.
+
+Tratamento especial: Em outras situações, é possível atribuir tratamento especial aos outliers, considerando-os como um grupo separado ou realizando análises específicas apenas para eles.
+
+É importante destacar que a decisão de como lidar com outliers deve ser tomada com base no contexto específico do problema, nas características dos dados e nas análises que serão realizadas, sendo sempre recomendável buscar orientação de especialistas em estatística ou do campo de aplicação específico em questão.
