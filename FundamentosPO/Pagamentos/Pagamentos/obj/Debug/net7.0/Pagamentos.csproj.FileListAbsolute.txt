@@ -1,0 +1,14 @@
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.exe
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.deps.json
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.runtimeconfig.json
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.dll
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.pdb
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.AssemblyInfoInputs.cache
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.AssemblyInfo.cs
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.csproj.CoreCompileInputs.cache
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.dll
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\refint\Pagamentos.dll
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.pdb
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.genruntimeconfig.cache
+C:\Cursos\FundamentosPO\Pagamentos\Pagamentos\obj\Debug\net7.0\ref\Pagamentos.dll
